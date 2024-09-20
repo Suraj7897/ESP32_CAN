@@ -1,8 +1,8 @@
 MCP2515 CAN Bus Controller Module
 
 
-**Working:-**
-Features and Specification of MCP2515
+**Features and Specification of MCP2515:-**
+
 Uses High-speed CAN transceiver TJA1050
 Dimension: 40×28mm
 SPI control for expanding Multi CAN bus interface
